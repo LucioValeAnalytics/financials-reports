@@ -35,6 +35,8 @@ O relatório foi elaborado utilizando a base Sample Financials e apresenta indic
 
 Relatório publicado no Power BI Service.
 
+assets/financials-reports-BI-Storytelling
+
 ## Demonstração em vídeo
 
 O vídeo está disponível em:
