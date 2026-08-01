@@ -39,7 +39,8 @@ Relatório publicado no Power BI Service.
 
 O vídeo está disponível em:
 
-financials_github.mp4
+assets/financials_demo.mp4
+![Demo](assets/financials_demo.mp4)
 
 ## Autor
 
