@@ -40,8 +40,7 @@ Relatório publicado no Power BI Service.
 O vídeo está disponível em:
 
 assets/financials_demo.mp4
-![Demo](assets/financials_demo.mp4)
 
 ## Autor
 
-Lúcio do Vale
+Lúcio M Vale
