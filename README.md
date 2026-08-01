@@ -35,6 +35,12 @@ O relatório foi elaborado utilizando a base Sample Financials e apresenta indic
 
 Relatório publicado no Power BI Service.
 
+## Demonstração em vídeo
+
+O vídeo está disponível em:
+
+financials_github.mp4
+
 ## Autor
 
 Lúcio do Vale
